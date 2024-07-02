@@ -29,7 +29,7 @@ That is why this data exploration aims to disprove these alarming claims that as
   
   <h3>Methodology:</h3>
   <ol>
-    <li><strong>Data Gathering:</strong> Download a specific dataset from <a href="https://www.ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254735573206">INE (Instituto Nacional de Estadística) to analyze the real data about crime in Spain by condemned's origin.</a> </li>
+    <li><strong>Data Gathering:</strong> Download a specific dataset from <a href="https://www.ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254735573206">INE (Instituto Nacional de Estadística)</a> to analyze the real data about crime in Spain by condemned's origin. </li>
     <li><strong>Data Preprocessing and EDA:</strong> Adjusting and fixing the data gathered for a deep exploration. Studying through EDA the stadistics crime by crime for, after that, make a general analysis of the total crimes and the relation with the origins.</li>
     <li><strong>Conclusions in Slides:</strong> Applying NLP to the synopses of the titles through an ML pipeline that will classify the entries according to moods.</li>
     <li><strong>Netflix Recommender:</strong> Creating the code for the recommender, which will offer titles based on the inputs provided by the user.</li>
